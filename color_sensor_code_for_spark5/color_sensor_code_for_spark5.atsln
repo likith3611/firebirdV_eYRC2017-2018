@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "color_sensor_code_for_spark5", "color_sensor_code_for_spark5\color_sensor_code_for_spark5.cproj", "{7E19B341-2831-420B-A31F-4F17306EF098}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E19B341-2831-420B-A31F-4F17306EF098}.Debug|AVR.ActiveCfg = Debug|AVR
+		{7E19B341-2831-420B-A31F-4F17306EF098}.Debug|AVR.Build.0 = Debug|AVR
+		{7E19B341-2831-420B-A31F-4F17306EF098}.Release|AVR.ActiveCfg = Release|AVR
+		{7E19B341-2831-420B-A31F-4F17306EF098}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

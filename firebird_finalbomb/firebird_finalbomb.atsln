@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "firebird_finalbomb", "firebird_finalbomb\firebird_finalbomb.cproj", "{164FB1E8-9632-4BFF-BCEF-1939707CA089}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{164FB1E8-9632-4BFF-BCEF-1939707CA089}.Debug|AVR.ActiveCfg = Debug|AVR
+		{164FB1E8-9632-4BFF-BCEF-1939707CA089}.Debug|AVR.Build.0 = Debug|AVR
+		{164FB1E8-9632-4BFF-BCEF-1939707CA089}.Release|AVR.ActiveCfg = Release|AVR
+		{164FB1E8-9632-4BFF-BCEF-1939707CA089}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
